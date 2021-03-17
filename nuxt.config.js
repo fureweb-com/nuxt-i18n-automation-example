@@ -2,6 +2,14 @@ export default {
   // ssr: false,
   target: 'static',
 
+  router: {
+    base: '/nuxt-i18n-automation-example/'
+  },
+
+  generate: {
+    subFolders: false,
+  },
+
   server: {
     port: 4000,
   },
