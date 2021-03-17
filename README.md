@@ -17,4 +17,4 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+프로젝트에 대한 좀 더 자세한 설명은 [블로그 게시글](https://goree.kr/43FtUA)에서 확인하실 수 있습니다.

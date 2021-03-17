@@ -83,7 +83,8 @@ export default {
 }
 
 .table {
-  width: 600px;
+  min-width: 300px;
+  margin: 0 auto;
 }
 
 th, td {
